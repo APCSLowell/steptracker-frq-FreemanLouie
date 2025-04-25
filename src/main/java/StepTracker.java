@@ -3,7 +3,7 @@ public class StepTracker
 {
  /* to be implemented here */
  private int minSteps, totalSteps;
- private in totalDays, activeDays;
+ private int totalDays, activeDays;
 
  public StepTracker(int goal){
   minSteps = goal;
